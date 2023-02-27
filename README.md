@@ -51,8 +51,7 @@ delete from  products where id=1;
 
 
 
-
-
+<img src="Screenshot 2023-02-27 105907.png">
 
 
 
